@@ -1,4 +1,15 @@
-• git config --global user.name "Your Name" – Sets the name linked to your commit transactions.
+pwd
+ls
+cd Documents
+pwd
+cd ..
+pwd
+cd ~
+pwd
+cd /
+pwd
+cd -
+pwd• git config --global user.name "Your Name" – Sets the name linked to your commit transactions.
 • git config --global user.email "you@example.com" – Sets the email linked to your commit transactions.
 • git init – Initializes a new, local Git repository in your current directory.
 • git clone <url> – Downloads a copy of an existing remote repository to your computer3 pv this is a demo file for delete before usage of git hub
