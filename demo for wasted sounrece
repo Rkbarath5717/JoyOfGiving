@@ -261,3 +261,4 @@ I am starting to learn and glance java and sql so I am Fully concentrate with wo
 13 -inum find . -inum 12345 Inode number base panni search pannum
 14 -exec find . -name "*.txt" -exec ls -l {} + Found files-ku another command execute pannum
 15 -delete find . -name "*.tmp" -delete Matching files delete pannum
+find . -type f -name "*.c"
