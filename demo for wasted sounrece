@@ -9,6 +9,27 @@ pwd
 cd /
 pwd
 cd -
+ls
+cd
+pwd
+cp
+mv
+rm
+cat
+grep
+find
+chmod
+chown
+ps
+top
+kill
+df
+du
+free
+ssh
+systemctl
+crontab
+
 pwd• git config --global user.name "Your Name" – Sets the name linked to your commit transactions.
 • git config --global user.email "you@example.com" – Sets the email linked to your commit transactions.
 • git init – Initializes a new, local Git repository in your current directory.
