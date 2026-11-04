@@ -1,4 +1,3 @@
-git clone <url> – Downloads a copy of an existing remote repository to your computer3 pv this is a demo file for delete before usage of git hub
 day was successful to wasted 😔
 but today I am very sad because I very very expected to watch Karuppu movie today 
 but today the movie is postponed and my favourite commentator RJ cry today 😭
@@ -204,142 +203,16 @@ i scored a average mark but it's ok for me
 today I do well in the mock interview so I am very happy definitely day by day i improve myself 
 today I feel better from yesterday because yesterday I am very tired 
 Tommorow I have an assessment exam i believe I do well that one 
-Tommorow I have a assessment so i prepar that one 
-1.  pwd
-2.  ls
-3.  cd
-4.  mkdir
-5.  touch
-6.  cp
-7.  mv
-8.  rm
-9.  cat
-10. less
-11. head
-12. tail
-13. grep
-14. find
-15. sort
-16. wc
-17. chmod
-18. chown
-19. sudo
-20. ps
-21. top
-22. kill
-23. df
-24. du
-25. free
-26. curl
-27. ssh
-28. scp
-29. tar
-30. apt
-again one chance is successful wasted but I never give up 
-but 
-today I successfully to attend two drives at the same time 
-tomorrow I watch meesaya muruku 2 and some movies to spend my times after that I start new beginnings of java and sql
-today I am successful to learn about prompt engineering and what is mean by prompt 
-this is really helpful for my upcoming drives so i continually learn and put my efforts and never ever give up
-waiting for the new journey and learn many information and start with telusko 
-I am starting to learn and glance java and sql so I am Fully concentrate with work and there is good journey for the upcoming drive 
-5 -maxdepth find . -maxdepth 1 Search depth limit pannum
-6 -mindepth find . -mindepth 2 Minimum depth-la irundhu search pannum
-7 -size find . -size +1M Size base panni search pannum
-8 -mtime find . -mtime -1 Modification time base panni search pannum
-9 -empty find . -empty Empty files/directories find pannum
-10 -user find . -user barath Owner base panni search pannum
-11 -perm find . -type f -perm 644 Exact permission mode search
-12 -executable find . -executable Current user execute panna mudiyura items find pannum
-13 -inum find . -inum 12345 Inode number base panni search pannum
-14 -exec find . -name "*.txt" -exec ls -l {} + Found files-ku another command execute pannum
-15 -delete find . -name "*.tmp" -delete Matching files delete pannum
-find . -type f -name "*.c"
-awk '
-BEGIN {
-    # Initialize total
-    sum = 0
-}
-{
-    # Add third column
-    sum += $3
-}
-END {
-    # Print final result
-    print "Total:", sum
-}
-' ba
-
-awk '
-# This is a comment
-{print $1}
-' ba
-after long days again I return to my home town for the pooja holidays I will spend my days with my brothers and parents 
-pwd
-ls
-cd Documents
-pwd
-cd ..
-pwd
-cd ~
-pwd
-cd /
-pwd
-cd -
-ls
-cd
-pwd
-cp
-mv
-rm
-cat
-grep
-find
-chmod
-chown
-ps
-top
-kill
-df
-du
-free
-ssh
-systemctl
-crontab
-
-pwd• git config --global user.name "Your Name" – Sets the name linked to your commit transactions.
-• git config --global user.email "you@example.com" – Sets the email linked to your commit transactions.
-• git init – Initializes a new, local Git repository in your current director
-today one year completed to bought a laptop I am very happy to share 
-today I study elon musk story that is really helpful for my hardwork 
-Good morning, sir/madam.
-
+Tommorow I have a assessment so i prepar that one
 First of all, thank you for giving me this opportunity to introduce myself.
-
 My name is Barath. I am from Tamil Nadu. I have completed my [Degree] at [College Name].
-
 I have knowledge of programming languages such as Java and Python. I am also learning Linux commands, Bash scripting, and embedded systems concepts like I2C and SPI communication protocols.
-
 I am interested in software development and embedded testing. I enjoy learning new technologies, solving technical problems, and improving my programming skills.
-
 My strengths are that I am a quick learner, a hardworking person, and willing to learn from feedback. My short-term goal is to start my career in a good organization where I can apply my technical knowledge and gain practical experience.
-
 My long-term goal is to become a skilled professional and contribute to the growth of the organization.
 
 That's all about me. Thank you.
-SELECT
-FROM
-WHERE
-DISTINCT
 
-WHERE
-AND
-OR
-NOT
-IN
-BETWEEN
-LIKE
-IS NULL
 today I am attend the college visit in our college conducted by maatram foundation this is give a good guidance about my placement
 this is very good information and good experience to connect the students in remaining 3 year 
 I am very sad to say I put my lot of effort but that time also I am not placed in any company 
@@ -354,3 +227,4 @@ waiting for the good information after the diwali so everyone waiting for that o
 Today is moderate day for me and today I am not study about anything today is totally wasted by me and I don't have an enough amount of time to learning anything but I try to learn tomorrow morning and evening I do my best at any time 
 tomorrow i don't have an any amount of time to learning new things but I will do 
 now i am in very very touch situation because of i dont have recharge so i am very worried about that one so i cant concentrate with my studiesso i am very sad for that one
+may be tommorow i recharge my mobile and today the dj also worst because tommorow i have a drive so i prepare for that drive
